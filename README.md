@@ -8,7 +8,7 @@ Data Scientist Aspirant (Mathematics and Statistics Graduate)
 * ✉️  You can contact me at [cynthiajiyane88@gmail.com](mailto:cynthiajiyane88@gmail.com)
 * 🧠  I'm learning Data Storytelling, statistical modeling and Data Science(Tensorflow)
 * 🤝  I'm open to collaborating on Data analysis/science or statistical data modeling projects.
-* ⚡  When God added colors to flowers and birds, He was just showing off .
+* ⚡  When God added color to flowers and birds, He was just showing off...
 
 <a href="https://www.github.com/okanina" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/okanina?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
